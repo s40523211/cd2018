@@ -4,77 +4,77 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>https://cadpb.kmol.info/40523209/doc/trunk/blog/</loc>
-<lastmod>2018-06-05T20:43:20-00:00</lastmod>
+<loc>./</loc>
+<lastmod>2018-05-30T11:24:50-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://cadpb.kmol.info/40523209/doc/trunk/blog/archives.html</loc>
-<lastmod>2018-06-05T20:43:20-00:00</lastmod>
+<loc>./archives.html</loc>
+<lastmod>2018-05-30T11:24:50-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://cadpb.kmol.info/40523209/doc/trunk/blog/tags.html</loc>
-<lastmod>2018-06-05T20:43:20-00:00</lastmod>
+<loc>./tags.html</loc>
+<lastmod>2018-05-30T11:24:50-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://cadpb.kmol.info/40523209/doc/trunk/blog/categories.html</loc>
-<lastmod>2018-06-05T20:43:20-00:00</lastmod>
+<loc>./categories.html</loc>
+<lastmod>2018-05-30T11:24:50-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://cadpb.kmol.info/40523209/doc/trunk/blog/pages/about/</loc>
-<lastmod>2018-05-29T20:46:02+08:00</lastmod>
+<loc>./pages/about/</loc>
+<lastmod>2017-10-20T12:42:36+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://cadpb.kmol.info/40523209/doc/trunk/blog/gear2.html</loc>
+<loc>./gear2.html</loc>
 <lastmod>2018-05-29T12:01:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://cadpb.kmol.info/40523209/doc/trunk/blog/gear1.html</loc>
+<loc>./gear1.html</loc>
 <lastmod>2018-05-28T12:01:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://cadpb.kmol.info/40523209/doc/trunk/blog/gear3.html</loc>
+<loc>./gear3.html</loc>
 <lastmod>2018-05-20T12:03:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://cadpb.kmol.info/40523209/doc/trunk/blog/category/course.html</loc>
+<loc>./category/course.html</loc>
 <lastmod>2018-05-29T12:01:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://cadpb.kmol.info/40523209/doc/trunk/blog/tag/gear.html</loc>
+<loc>./tag/gear.html</loc>
 <lastmod>2018-05-29T12:01:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://cadpb.kmol.info/40523209/doc/trunk/blog/author/40523211.html</loc>
+<loc>./author/40523209.html</loc>
 <lastmod>2018-05-29T12:01:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>

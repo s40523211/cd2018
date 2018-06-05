@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>40523209</title><link href="https://cadpb.kmol.info/40523209/doc/trunk/blog/" rel="alternate"></link><link href="https://cadpb.kmol.info/40523209/doc/trunk/blog/feeds/all.atom.xml" rel="self"></link><id>https://cadpb.kmol.info/40523209/doc/trunk/blog/</id><updated>2018-05-29T12:01:00+08:00</updated><entry><title>繪製靜態組合正齒輪</title><link href="https://cadpb.kmol.info/40523209/doc/trunk/blog/gear2.html" rel="alternate"></link><published>2018-05-29T12:01:00+08:00</published><updated>2018-05-29T12:01:00+08:00</updated><author><name>40523211</name></author><id>tag:cadpb.kmol.info,2018-05-29:/40523209/doc/trunk/blog/gear2.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40523209</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2018-05-29T12:01:00+08:00</updated><entry><title>繪製靜態組合正齒輪</title><link href="./gear2.html" rel="alternate"></link><published>2018-05-29T12:01:00+08:00</published><updated>2018-05-29T12:01:00+08:00</updated><author><name>40523209</name></author><id>tag:None,2018-05-29:./gear2.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h2&gt;2-1 使用 canvas 畫出一個可自選齒數並組合之靜態正齒輪&lt;/h2&gt;
 &lt;p&gt;&lt;!-- 導入 Brython 標準程式庫 --&gt;
@@ -782,7 +782,7 @@ set1(True)
 doc['rcbutton'].bind('click',set1)
 &lt;/script&gt;
 
-&lt;/pre&gt;</content><category term="gear"></category></entry><entry><title>繪製靜態組合正齒輪</title><link href="https://cadpb.kmol.info/40523209/doc/trunk/blog/gear1.html" rel="alternate"></link><published>2018-05-28T12:01:00+08:00</published><updated>2018-05-28T12:01:00+08:00</updated><author><name>40523211</name></author><id>tag:cadpb.kmol.info,2018-05-28:/40523209/doc/trunk/blog/gear1.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;/pre&gt;</content><category term="gear"></category></entry><entry><title>繪製靜態組合正齒輪</title><link href="./gear1.html" rel="alternate"></link><published>2018-05-28T12:01:00+08:00</published><updated>2018-05-28T12:01:00+08:00</updated><author><name>40523209</name></author><id>tag:None,2018-05-28:./gear1.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h2&gt;1-1 使用 canvas 畫出一個可自選齒數之靜態正齒輪&lt;/h2&gt;
 &lt;p&gt;&lt;!-- 導入 Brython 標準程式庫 --&gt;
@@ -1348,7 +1348,7 @@ doc['cbutton'].bind('click',draw)
 &lt;p&gt;&lt;/pre&gt;
 &lt;a id="p2"&gt;&lt;/a&gt;
 &lt;br/&gt;
-&lt;br/&gt;&lt;/p&gt;</content><category term="gear"></category></entry><entry><title>繪製組合轉動正齒輪</title><link href="https://cadpb.kmol.info/40523209/doc/trunk/blog/gear3.html" rel="alternate"></link><published>2018-05-20T12:03:00+08:00</published><updated>2018-05-20T12:03:00+08:00</updated><author><name>40523211</name></author><id>tag:cadpb.kmol.info,2018-05-20:/40523209/doc/trunk/blog/gear3.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;br/&gt;&lt;/p&gt;</content><category term="gear"></category></entry><entry><title>繪製組合轉動正齒輪</title><link href="./gear3.html" rel="alternate"></link><published>2018-05-20T12:03:00+08:00</published><updated>2018-05-20T12:03:00+08:00</updated><author><name>40523209</name></author><id>tag:None,2018-05-20:./gear3.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;!-- 導入 Brython 標準程式庫 --&gt;
 
