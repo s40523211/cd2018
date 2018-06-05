@@ -223,6 +223,20 @@
 </v>
 <v t="yen.20170108171930.1"><vh>@button https server</vh></v>
 <v t="yen.20170108171939.1"><vh>@button ipv6 https server</vh></v>
+<v t="leo.20180605212215.2" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20180605212215.3"><vh>Recovered node "成績" from @clean 5index.html</vh>
+<v t="leo.20180605212215.4"><vh>old:成績</vh></v>
+<v t="leo.20180605212215.5"><vh>new:成績</vh></v>
+</v>
+<v t="leo.20180605212215.6"><vh>Recovered node "成績" from @clean 5index.html</vh>
+<v t="leo.20180605212215.7"><vh>old:成績</vh></v>
+<v t="leo.20180605212215.8"><vh>new:成績</vh></v>
+</v>
+<v t="leo.20180605212215.9"><vh>Recovered node "成績" from @clean 5index.html</vh>
+<v t="leo.20180605212215.10"><vh>old:成績</vh></v>
+<v t="leo.20180605212215.11"><vh>new:成績</vh></v>
+</v>
+</v>
 </vnodes>
 <tnodes>
 <t tx="leo.20170911090052.1">&lt;section data-markdown&gt;
@@ -600,7 +614,8 @@ g.es("admin pelican Github 執行完畢")
             ]
         });
 &lt;/script&gt;
-&lt;/body&gt;</t>
+&lt;/body&gt;
+</t>
 <t tx="leo.20171027165744.1">&lt;div class="reveal"&gt;
 @others
 &lt;/div&gt;
@@ -651,7 +666,8 @@ Created by [40523209](https://cadpb.kmol.info/40523209/wiki?name=40523209)
 </t>
 <t tx="leo.20171027171309.1">&lt;section&gt;
     @others
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20171027171309.2"># 自評成績
 
 * 期末自評:&lt;span style="color:red;"&gt;60&lt;/span&gt;
@@ -659,15 +675,17 @@ Created by [40523209](https://cadpb.kmol.info/40523209/wiki?name=40523209)
 </t>
 <t tx="leo.20171027171640.1">&lt;section&gt;
     @others
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20171027171658.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20171027171747.1">#網誌
 
-* [40523209](https://cadpb.kmol.info/40523209/doc/trunk/blog/index.html)
+* [40523211](https://cadpb.kmol.info/40523209/doc/trunk/blog/index.html)
 
 &lt;a href="https://cadpb.kmol.info/40523209/doc/trunk/blog/index.html"&gt;&lt;img src="https://github.com/cow2166/9989/blob/master/blog.JPG?raw=truehttps://github.com/cow2166/9989/blob/master/blog.JPG?raw=true" width="800" height="400"&gt;&lt;/a&gt;
 
@@ -677,7 +695,8 @@ Created by [40523209](https://cadpb.kmol.info/40523209/wiki?name=40523209)
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20171027190006.1">#WIKI
 
 * [wiki](https://cadpb.kmol.info/40523209/wiki/wcontent)
@@ -689,12 +708,14 @@ Created by [40523209](https://cadpb.kmol.info/40523209/wiki?name=40523209)
 </t>
 <t tx="leo.20171102202903.1">&lt;section&gt;
     @others
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20171102202903.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20171102202903.3">#youtube
 
 * [youtube](https://www.youtube.com/channel/UCujK0CuqdlJh2L7zD_9GWpQ)
@@ -707,7 +728,8 @@ Created by [40523209](https://cadpb.kmol.info/40523209/wiki?name=40523209)
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20171102202903.5">#vimeo
 
 * [vimeo](https://vimeo.com/user58510993)
@@ -717,12 +739,14 @@ Created by [40523209](https://cadpb.kmol.info/40523209/wiki?name=40523209)
 </t>
 <t tx="leo.20171103135120.1">&lt;section&gt;
     @others
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20171103135120.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20171103135120.3">#onshape 翻譯影片1
 
 
@@ -737,7 +761,8 @@ Created by [40523209](https://cadpb.kmol.info/40523209/wiki?name=40523209)
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20171103135120.5">#onshape 翻譯影片2
 
 &lt;iframe src="https://player.vimeo.com/video/250591558" width="640" height="336" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
@@ -749,23 +774,26 @@ Created by [40523209](https://cadpb.kmol.info/40523209/wiki?name=40523209)
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20171103143320.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20171103143320.2"># W10討論
 
 * w10
 
- &lt;img src="https://github.com/cow2166/9989/blob/master/W1010.jpg?raw=true" width="800" height="400"&gt;
+ &lt;img src="https://github.com/cow2166/9989/blob/master/W1010.JPG?raw=true" width="800" height="400"&gt;
 </t>
 <t tx="leo.20171103145254.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20171103145254.2"># W11
 
 * 放假
@@ -774,32 +802,36 @@ Created by [40523209](https://cadpb.kmol.info/40523209/wiki?name=40523209)
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20171103145311.2"># W12討論
 
 * w12
 
- &lt;img src="https://github.com/cow2166/9989/blob/master/W1212.jpg?raw=true" width="800" height="400"&gt;
+ &lt;img src="https://github.com/cow2166/9989/blob/master/W1212.JPG?raw=true" width="800" height="400"&gt;
 </t>
 <t tx="leo.20171103145316.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20171103145316.2"># W14討論
 
 * w14
 
- &lt;img src="https://github.com/cow2166/9989/blob/master/W141414.jpg?raw=true" width="800" height="400"&gt;
+ &lt;img src="https://github.com/cow2166/9989/blob/master/W141414.JPG?raw=true" width="800" height="400"&gt;
 </t>
 <t tx="leo.20171109191400.1">&lt;section&gt;
     @others
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20171109191400.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20171109191400.3">#SolvesSpace
 
 
@@ -813,7 +845,8 @@ Created by [40523209](https://cadpb.kmol.info/40523209/wiki?name=40523209)
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20171109191400.5">#v-rep
 
 * 學習如何使用v-rep
@@ -825,7 +858,8 @@ Created by [40523209](https://cadpb.kmol.info/40523209/wiki?name=40523209)
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20171109191814.2">#OnShape
 
 * 學習如何使用OnShape
@@ -836,12 +870,14 @@ Created by [40523209](https://cadpb.kmol.info/40523209/wiki?name=40523209)
 </t>
 <t tx="leo.20180111193645.1">&lt;section&gt;
     @others
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20180111193645.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20180111193645.3">#W10-W12
 
 * 每人分配onshape2部影片翻譯
@@ -854,7 +890,8 @@ Created by [40523209](https://cadpb.kmol.info/40523209/wiki?name=40523209)
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20180111193645.5">#W13-W15
 
 * 小組討論分配提求機構
@@ -867,7 +904,8 @@ Created by [40523209](https://cadpb.kmol.info/40523209/wiki?name=40523209)
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20180111193728.2">#W16-W18
 
 * 期末驗收週,彈珠台繪製跟模擬
@@ -878,7 +916,8 @@ Created by [40523209](https://cadpb.kmol.info/40523209/wiki?name=40523209)
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20180111195542.2">#W13
 
 * 開始繪製
@@ -892,7 +931,8 @@ Created by [40523209](https://cadpb.kmol.info/40523209/wiki?name=40523209)
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20180111195708.2">#W14
 
 * 個人軌道
@@ -905,7 +945,8 @@ Created by [40523209](https://cadpb.kmol.info/40523209/wiki?name=40523209)
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20180111195928.2">#W15
 
 * V-rep模擬
@@ -918,12 +959,83 @@ Created by [40523209](https://cadpb.kmol.info/40523209/wiki?name=40523209)
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20180111200417.2">#彈珠臺模擬影片
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/9S5NZ9eLuK8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
 
 
+</t>
+<t tx="leo.20180605212215.10"># W14討論
+
+* w14
+
+ &lt;img src="https://github.com/cow2166/9989/blob/master/W141414.jpg?raw=true" width="800" height="400"&gt;
+</t>
+<t tx="leo.20180605212215.11"># W14討論
+
+* w14
+
+ &lt;img src="https://github.com/cow2166/9989/blob/master/W141414.JPG?raw=true" width="800" height="400"&gt;
+</t>
+<t tx="leo.20180605212215.2"></t>
+<t tx="leo.20180605212215.3">(uncached) leo.20171103143320.2
+Diff...
+  # W10討論
+  
+  * w10
+  
+-  &lt;img src="https://github.com/cow2166/9989/blob/master/W1010.JPG?raw=true" width="800" height="400"&gt;
+?                                                              ^^^
++  &lt;img src="https://github.com/cow2166/9989/blob/master/W1010.jpg?raw=true" width="800" height="400"&gt;
+?                                                              ^^^
+</t>
+<t tx="leo.20180605212215.4"># W10討論
+
+* w10
+
+ &lt;img src="https://github.com/cow2166/9989/blob/master/W1010.jpg?raw=true" width="800" height="400"&gt;
+</t>
+<t tx="leo.20180605212215.5"># W10討論
+
+* w10
+
+ &lt;img src="https://github.com/cow2166/9989/blob/master/W1010.JPG?raw=true" width="800" height="400"&gt;
+</t>
+<t tx="leo.20180605212215.6">(uncached) leo.20171103145311.2
+Diff...
+  # W12討論
+  
+  * w12
+  
+-  &lt;img src="https://github.com/cow2166/9989/blob/master/W1212.JPG?raw=true" width="800" height="400"&gt;
+?                                                              ^^^
++  &lt;img src="https://github.com/cow2166/9989/blob/master/W1212.jpg?raw=true" width="800" height="400"&gt;
+?                                                              ^^^
+</t>
+<t tx="leo.20180605212215.7"># W12討論
+
+* w12
+
+ &lt;img src="https://github.com/cow2166/9989/blob/master/W1212.jpg?raw=true" width="800" height="400"&gt;
+</t>
+<t tx="leo.20180605212215.8"># W12討論
+
+* w12
+
+ &lt;img src="https://github.com/cow2166/9989/blob/master/W1212.JPG?raw=true" width="800" height="400"&gt;
+</t>
+<t tx="leo.20180605212215.9">(uncached) leo.20171103145316.2
+Diff...
+  # W14討論
+  
+  * w14
+  
+-  &lt;img src="https://github.com/cow2166/9989/blob/master/W141414.JPG?raw=true" width="800" height="400"&gt;
+?                                                                ^^^
++  &lt;img src="https://github.com/cow2166/9989/blob/master/W141414.jpg?raw=true" width="800" height="400"&gt;
+?                                                                ^^^
 </t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
@@ -1096,10 +1208,10 @@ vertical: body pane on the botton</t>
 ### 虎科大機械設計工程系
 
 &lt;small&gt;
-Created by [40523209](https://cadpb.kmol.info/40523209/wiki?name=40523209)
+Created by [40523211](https://cadpb.kmol.info/40523209/wiki?name=40523209)
 &lt;/small&gt;
 
-[40523209網誌](blog/index.html)
+[40523211網誌](blog/index.html)
 
 
 </t>
